@@ -1,0 +1,16 @@
+.test {
+    text-align: center;
+    padding:40px;
+}
+.test .code {
+    margin-top:20px;
+    font-size: 17px;
+    font-weight: bold;
+}
+.test h2{
+    margin-top:0px;
+    margin-bottom: 10px;
+}
+.test p {
+    font-size: large;
+}

@@ -1,0 +1,37 @@
+*{
+  -webkit-box-sizing: content-box; 
+  -moz-box-sizing: content-box;
+  box-sizing: content-box; 
+}
+.Todo {
+  text-align: center;
+}
+
+.Todo .App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 80px;
+}
+
+.Todo .App-header {
+  background-color: #222;
+  height: 150px;
+  padding: 20px;
+  color: white;
+}
+
+.Todo .App-title {
+  font-size: 1.5em;
+  color:red;
+}
+
+.Todo .App-intro {
+  font-size: large;
+  padding:.5em;
+}
+
+
+@keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
+  
